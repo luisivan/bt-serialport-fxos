@@ -34,6 +34,19 @@ re-pairing
 
 - This profile is built upon the Generic Access Profile.
 
+- SDP: Service discovery protocol
+
+- RFCOMM: Radio Frequency Communications
+
+- L2CAP: Logical Link Control and Adaptation Protocol [1](https://en.wikipedia.org/wiki/Bluetooth#L2CAP)
+
+### Procedure
+
+1. A -> SDP Query/Servcie Class ID -> B
+2. B -> RFCOMM Channel Number -> A
+3. A -> Request L2CAP Channel -> B
+4. Initiate RFCOMM session on L2CAP Channel
+5. Start new data link connection on the RFCOMM Session 
 
 Gecko
 ---
