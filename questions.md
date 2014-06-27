@@ -1,6 +1,6 @@
 Questions
 ===
 
-If File Transfer Profile depends on Serial Port, is Serial 
+- If File Transfer Profile depends on Serial Port, is Serial 
 Port already implemented?
-Gecko lasts 3m to compile even without any changes
+- Gecko lasts 3m to compile even without any changes
