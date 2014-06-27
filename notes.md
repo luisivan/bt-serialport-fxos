@@ -4,9 +4,9 @@ Notes
 Bluetooth
 ---
 
-Initiator -> Acceptor
+- Initiator -> Acceptor
 
-For purposes of mapping the Serial Port profile to the 
+- For purposes of mapping the Serial Port profile to the 
 conventional
 serial port architecture, both DevA and DevB can be either 
 a Data Circuit Endpoint
@@ -14,12 +14,12 @@ a Data Circuit Endpoint
 protocol is designed to be
 independent of DTE-DCE or DTE-DTE relationships.)
 
-This profile requires support for one-slot packets only. 
+- This profile requires support for one-slot packets only. 
 This means that this profile
 ensures that data rates up to 128 kbps can be used. 
 Support for higher rates is optional.
 
-Only one connection at a time is dealt with in this 
+- Only one connection at a time is dealt with in this 
 profile. Consequently, only point-to-
 point configurations are considered. However, this should 
 not be construed as imposing
@@ -29,10 +29,10 @@ concurrently in the same device. This also includes taking
 on the two different roles (as
 DevA and DevB) concurrently.
 
-Bond: lets devices connect to each other without 
+- Bond: lets devices connect to each other without 
 re-pairing
 
-This profile is built upon the Generic Access Profile.
+- This profile is built upon the Generic Access Profile.
 
 
 Gecko
