@@ -19,12 +19,16 @@ Serial Port
 - (☐) https://developer.chrome.com/apps/serial
 - (✔) 
 https://groups.google.com/forum/#!msg/mozilla.dev.webapi/wykkibp6BKo/p0C5ujQsAHsJ
+
+
 Gecko
 ---
 
 - (✔) https://wiki.mozilla.org/Gecko:Overview
 - (✔) https://wiki.mozilla.org/Gecko:Frequently_Asked_Questions
+- (☐) https://wiki.mozilla.org/B2G/Hacking
 - (☐) https://wiki.mozilla.org/B2G/Bluetooth
 - (☐) https://wiki.mozilla.org/WebAPI/WebBluetooth -> 
 https://wiki.mozilla.org/B2G/Bluetooth/WebBluetooth-v2
 - (☐) https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API
+- (☐) https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code
