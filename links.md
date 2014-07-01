@@ -15,8 +15,8 @@ https://en.wikipedia.org/wiki/List_of_Bluetooth_profiles#Serial_Port_Profile_.28
 Gecko
 ---
 
-- (☐) https://wiki.mozilla.org/Gecko:Overview
-- (☐) https://wiki.mozilla.org/Gecko:Frequently_Asked_Questions
+- (✔) https://wiki.mozilla.org/Gecko:Overview
+- (✔) https://wiki.mozilla.org/Gecko:Frequently_Asked_Questions
 - (☐) https://wiki.mozilla.org/B2G/Bluetooth
 - (☐) https://wiki.mozilla.org/WebAPI/WebBluetooth
 - (☐) https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API
