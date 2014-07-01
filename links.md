@@ -19,6 +19,8 @@ Serial Port
 - (☐) https://developer.chrome.com/apps/serial
 - (✔) 
 https://groups.google.com/forum/#!msg/mozilla.dev.webapi/wykkibp6BKo/p0C5ujQsAHsJ
+
+
 Gecko
 ---
 
