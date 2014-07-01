@@ -22,8 +22,8 @@ https://groups.google.com/forum/#!msg/mozilla.dev.webapi/wykkibp6BKo/p0C5ujQsAHs
 Gecko
 ---
 
-- (☐) https://wiki.mozilla.org/Gecko:Overview
-- (☐) https://wiki.mozilla.org/Gecko:Frequently_Asked_Questions
+- (✔) https://wiki.mozilla.org/Gecko:Overview
+- (✔) https://wiki.mozilla.org/Gecko:Frequently_Asked_Questions
 - (☐) https://wiki.mozilla.org/B2G/Bluetooth
 - (☐) https://wiki.mozilla.org/WebAPI/WebBluetooth
 - (☐) https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API
