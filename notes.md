@@ -53,3 +53,5 @@ Gecko
 
 - Bluedroid is now being used as the primary backend as it is 
 the only one supported in post-JB Android
+
+- Profiles are in dom/bluetooth/bluedroid
