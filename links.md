@@ -15,8 +15,8 @@ https://en.wikipedia.org/wiki/List_of_Bluetooth_profiles#Serial_Port_Profile_.28
 Serial Port
 ---
 
-- (☐) https://whatwg.github.io/serial/
-- (☐) https://developer.chrome.com/apps/serial
+- (✔) https://whatwg.github.io/serial/
+- (✔) https://developer.chrome.com/apps/serial
 - (✔) 
 https://groups.google.com/forum/#!msg/mozilla.dev.webapi/wykkibp6BKo/p0C5ujQsAHsJ
 
