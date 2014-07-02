@@ -28,8 +28,9 @@ Gecko
 - (✔) https://wiki.mozilla.org/Gecko:Frequently_Asked_Questions
 - (☐) https://wiki.mozilla.org/B2G/Hacking
 - (--) https://wiki.mozilla.org/B2G/Bluetooth
-- (☐) https://wiki.mozilla.org/WebAPI/WebBluetooth -> 
+- (✔) https://wiki.mozilla.org/WebAPI/WebBluetooth -> 
 https://wiki.mozilla.org/B2G/Bluetooth/WebBluetooth-v2
-- (☐) https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API
+- (✔) 
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API
 - (✔)  https://wiki.mozilla.org/B2G/Bluetooth-bluedroid
 - (☐) https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code
