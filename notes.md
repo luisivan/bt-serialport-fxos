@@ -54,4 +54,6 @@ Gecko
 - Bluedroid is now being used as the primary backend as it is 
 the only one supported in post-JB Android
 
+- The Flame is the only one right now with KitKat (Bluedroid) 
+
 - Profiles are in dom/bluetooth/bluedroid
