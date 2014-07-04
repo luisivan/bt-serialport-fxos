@@ -37,3 +37,10 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API
 https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code
 - (--) 
 https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
+
+
+Arduino
+---
+
+- (✔) http://www.dx.com/p/jy-mcu-arduino-bluetooth-wireless-serial-port-module-104299
+- (✔) http://www.dx.com/p/arduino-compatible-bluetooh-bee-hc-06-wireless-bluetooth-module-140200
