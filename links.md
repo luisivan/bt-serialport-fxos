@@ -35,9 +35,9 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API
 - (✔)  https://wiki.mozilla.org/B2G/Bluetooth-bluedroid
 - (✔) 
 https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code
-- (--) 
+- (✔) 
 https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
-
+- (✔) https://www.mozilla.org/hacking/committer/
 
 Arduino
 ---
