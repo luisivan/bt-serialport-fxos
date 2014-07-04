@@ -10,7 +10,7 @@ Bluetooth
 https://github.com/eelcocramer/node-bluetooth-serial-port
 - (✔) 
 https://en.wikipedia.org/wiki/List_of_Bluetooth_profiles#Serial_Port_Profile_.28SPP.29
-
+- (✔) http://zpcat.blogspot.com.es/2013/09/bluetooth-introduction_12.html
 
 Serial Port
 ---
