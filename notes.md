@@ -57,3 +57,11 @@ the only one supported in post-JB Android
 - The Flame is the only one right now with KitKat (Bluedroid) 
 
 - Profiles are in dom/bluetooth/bluedroid
+
+Emulation
+---
+
+- Arduino devices cannot be fully simulated because of the 
+Bluetooth capabilities, but the RFCOMM may be implemented 
+using Linux
+
