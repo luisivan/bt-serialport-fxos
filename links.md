@@ -50,3 +50,4 @@ Emulation
 
 - (--) 
 https://www.linuxquestions.org/questions/linux-software-2/emulate-simulate-an-usb-or-com-device-545559/
+- (✔) http://playground.arduino.cc/Learning/ArduinoBT-Ubuntu

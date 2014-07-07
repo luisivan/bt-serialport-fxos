@@ -58,6 +58,12 @@ the only one supported in post-JB Android
 
 - Profiles are in dom/bluetooth/bluedroid
 
+Arduino
+---
+
+- Arduino BT is sold with the device name ARDUINOBT and the 
+pin 12345
+
 Emulation
 ---
 
