@@ -1,8 +1,26 @@
-#include <QCoreApplication>
+#include <iostream>
 
-int main(int argc, char *argv[])
+#include "SerialComms/serial.h"
+
+using namespace std;
+
+int main()
 {
-    QCoreApplication a(argc, argv);
+    //const int rate = ;
 
-    return a.exec();
+    Serial *s = new Serial("/dev/serial", 1000000);
+
+    unsigned char *i = "OLA K ASE";
+    unsigned char *o;
+
+    s->SendBuffer(i, sizeof(i)+1);
+
+    //s->Close();
+    while(s->Read(o, 16)) {
+        cout << "hallo" << endl;
+        cout << o << endl;
+    }
+
+
+    return 0;
 }
