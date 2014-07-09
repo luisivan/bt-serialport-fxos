@@ -13,7 +13,9 @@ To do
 
 6. (✔) Create the skeleton of the BluetoothSppManager class
 
-7. (--) Get a Flame so I can work with Bluedroid and start testing
+7. (✔) Get a ~~Flame~~ ZTE Open C so I can work with 
+Bluedroid and start 
+testing
 
 8. (--) Get a faster machine so I don't have to wait centuries when compiling
 
