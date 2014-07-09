@@ -48,6 +48,16 @@ re-pairing
 4. Initiate RFCOMM session on L2CAP Channel
 5. Start new data link connection on the RFCOMM Session 
 
+### Testing
+
+- Pair device with laptop
+
+- rfcomm bind 0 address 1
+
+- Get a Serial Port on /dev/rfcomm0
+
+- Profit
+
 Gecko
 ---
 
