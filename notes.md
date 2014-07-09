@@ -54,7 +54,7 @@ re-pairing
 
 - rfcomm bind 0 address 1
 
-- Get a Serial Port on /dev/rfcomm0
+- Get a Serial Port on /dev/rfcomm0 -> execute spbt test
 
 - Profit
 
