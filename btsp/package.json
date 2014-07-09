@@ -1,0 +1,7 @@
+{
+  "name": "btsp",
+  "version": "0.0.1",
+  "dependencies": {
+    "serialport": "^1.4.2"
+  }
+}
