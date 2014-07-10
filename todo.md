@@ -19,6 +19,10 @@ testing
 
 8. (--) Get a faster machine so I don't have to wait centuries when compiling
 
-9. (☐) Code, code, code
+9. (☐) See how the device reacts when doing a RFCOMM 
+connection
 
-10. (☐) Have fun & profit
+10. (☐) Code the profile and make it react like it is 
+supposed to do
+
+11. (☐) Have fun & profit :sunglasses: 
