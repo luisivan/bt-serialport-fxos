@@ -40,6 +40,8 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code
 - (✔) 
 https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
 - (✔) https://www.mozilla.org/hacking/committer/
+- (✔) https://bugzilla.mozilla.org/show_bug.cgi?id=1016867
+- (✔) https://bugzilla.mozilla.org/show_bug.cgi?id=1004896
 
 Arduino
 ---
