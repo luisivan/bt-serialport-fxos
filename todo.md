@@ -13,13 +13,14 @@ To do
 
 6. (✔) Create the skeleton of the BluetoothSppManager class
 
-7. (✔) Get a ~~Flame~~ ZTE Open C so I can work with 
-Bluedroid and start 
-testing
+7. (✔) Get a Flame (got a ZTE Open C as well) so I 
+can work with Bluedroid and start testing
 
-8. (--) Get a faster machine so I don't have to wait centuries when compiling
+8. (✔) Get a faster machine so I don't have to wait 
+centuries when compiling
 
-9. (--) Compile Gecko with Bluedroid and flash it on the C
+9. (--) Compile Gecko with Bluedroid and flash it on 
+the Flame
 
 10. (☐) See how the device reacts when doing a RFCOMM 
 connection
