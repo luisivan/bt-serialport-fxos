@@ -19,13 +19,15 @@ can work with Bluedroid and start testing
 8. (✔) Get a faster machine so I don't have to wait 
 centuries when compiling
 
-9. (--) Compile Gecko with Bluedroid and flash it on 
+9. (--) Configure the machine
+
+10. (--) Compile Gecko with Bluedroid and flash it on 
 the Flame
 
-10. (☐) See how the device reacts when doing a RFCOMM 
+11. (☐) See how the device reacts when doing a RFCOMM 
 connection
 
-11. (☐) Code the profile and make it react like it is 
+12. (☐) Code the profile and make it react like it is 
 supposed to do
 
-12. (☐) Have fun & profit :sunglasses: 
+13. (☐) Have fun & profit :sunglasses: 
