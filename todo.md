@@ -28,7 +28,7 @@ the Flame
 
 10.2. (--) Set Gecko to use the Bluetooth API v2
 
-10.3. (☐) Make it work :facepalm
+10.3. (☐) Make it work :facepalm:
 
 11. (☐) See how the device reacts when doing a RFCOMM 
 connection
