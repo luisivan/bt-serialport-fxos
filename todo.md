@@ -19,7 +19,7 @@ can work with Bluedroid and start testing
 8. (✔) Get a faster machine so I don't have to wait 
 centuries when compiling
 
-9. (--) Configure the machine
+9. (✔) Configure the machine
 
 10. (--) Compile Gecko with Bluedroid and flash it on 
 the Flame
