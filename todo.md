@@ -24,6 +24,12 @@ centuries when compiling
 10. (--) Compile Gecko with Bluedroid and flash it on 
 the Flame
 
+10.1. (✔) Set Gecko to use the Bluedroid backend
+
+10.2. (--) Set Gecko to use the Bluetooth API v2
+
+10.3. (☐) Make it work :facepalm
+
 11. (☐) See how the device reacts when doing a RFCOMM 
 connection
 
