@@ -26,7 +26,8 @@ the Flame
 
   10.1. (✔) Set Gecko to use the Bluedroid backend
 
-  10.2. (✔) Set Gecko to use the Bluetooth API v2
+  10.2. (✔) ~~Set Gecko to use the Bluetooth API v2~~ It doesn't currently 
+work so I gotta use API v1 right now
 
   10.3. (✔) Compile and flash it
 
