@@ -21,7 +21,7 @@ centuries when compiling
 
 9. (✔) Configure the machine
 
-10. (--) Compile Gecko with Bluedroid and flash it on 
+10. (✔) Compile Gecko with Bluedroid and flash it on 
 the Flame
 
   10.1. (✔) Set Gecko to use the Bluedroid backend
@@ -31,7 +31,7 @@ work so I gotta use API v1 right now
 
   10.3. (✔) Compile and flash it
 
-  10.4. (☐) Make it work :unamused:
+  10.4. (✔) Make it work :unamused:
 
 11. (☐) See how the device reacts when doing a RFCOMM 
 connection
