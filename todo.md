@@ -33,7 +33,7 @@ work so I gotta use API v1 right now
 
   10.4. (✔) Make it work :unamused:
 
-11. (☐) See how the device reacts when doing a RFCOMM 
+11. (✔) See how the device reacts when doing a RFCOMM 
 connection
 
 12. (☐) Code the profile and make it react like it is 
