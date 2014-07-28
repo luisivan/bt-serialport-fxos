@@ -1,3 +1,0 @@
-[submodule "test/SerialComms"]
-	path = test/SerialComms
-	url = git@github.com:luisivan/SerialComms.git
