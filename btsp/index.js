@@ -12,18 +12,20 @@ serial.list(function (err, ports) {
     })
 })
 
-var serialPort = new serial.SerialPort("/dev/rfcomm0", {
+var serialPort = new 
+serial.SerialPort("/dev/rfcomm1", {
     baudrate: 57600
 })
 
 serialPort.on("open", function () {
 
-    console.log('open')
+    console.log('Serial Port opened')
     serialPort.on('data', function(data) {
-        console.log('data received: ' + data)
+        console.log('Data received: ' + data)
     })
-    serialPort.write("plz receive this data\n", function(err, results) {
-        console.log('err ' + err)
-        console.log('results ' + results)
+    serialPort.write("Plz receive this data\n", 
+function(err, results) {
+        console.log('Err is ' + err)
+        console.log('Results are ' + results)
     })
 })

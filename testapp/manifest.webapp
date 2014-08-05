@@ -1,0 +1,16 @@
+{
+  "name": "BTSP Test",
+  "description": "Bluetooth Serial Port Test App",
+  "launch_path": "/index.html",
+  "type": "certified",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Luis Iván Cuende"
+  },
+  "default_locale": "en",
+  "permissions": {
+    "bluetooth": {}
+  }
+}
