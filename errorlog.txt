@@ -1,0 +1,9 @@
+E/GeckoConsole( 1988): Content JS LOG at 
+app://ef7a9de8-e31c-41fc-b44e-84ddc6cecc1c/script.js:4 in test: hi2
+I/GeckoBluetooth( 1988): SendSerialPort: WACA WACA MOLE MOLE
+I/Gecko   ( 1464): [Parent 1464] WARNING: [SPP] SENDING DATA: file 
+../../../../mozilla-central/dom/bluetooth/bluedroid/BluetoothSppManager.cpp, 
+line 178
+I/Gecko   ( 1464): [Parent 1464] ###!!! ASSERTION: You can't dereference a 
+NULL nsRefPtr with operator->().: 'mRawPtr != 0', file 
+../../dist/include/nsAutoPtr.h, line 1037
