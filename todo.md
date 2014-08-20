@@ -31,12 +31,14 @@ To do
 
 11. (✔) See how the device reacts when doing a RFCOMM connection
 
-12. (--) Expose a dummy API
-  
-  12.1. (✔) Expose sendSerialPort
-  
-  12.2. (☐) Expose onserialportdata
+12. (✔) Expose a dummy sendSerialPort function
 
 13. (☐) Code the profile and make it react like it is supposed to do
+
+  13.1. (--) Send one-way data as a client
+  
+  13.2. (☐) Send one-way data as a server
+  
+  13.3. (☐) Receive data and implement onserialportdata
 
 14. (☐) Have fun & profit :sunglasses: 
