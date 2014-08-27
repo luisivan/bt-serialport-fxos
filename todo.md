@@ -37,7 +37,7 @@ To do
 
   13.1. (--) Send one-way data as a client
   
-    13.1. (--) Solve the f***ing socket issue
+    13.1.1. (--) Solve the f***ing socket issue
   
   13.2. (☐) Send one-way data as a server
   
