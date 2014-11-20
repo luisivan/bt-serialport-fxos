@@ -1,0 +1,140 @@
+W/bt-btm  ( 9010): btm_acl_created hci_handle=4 link_role=1  is_le_link=0
+W/bt-btm  ( 9010): BTM: RemBdAddr: 0015836bd158
+W/bt-btm  ( 9010): BTM: remote role: 0x01
+W/bt-btm  ( 9010): btm_acl_created hci_handle=4 link_role=1  is_le_link=0
+W/bt-btm  ( 9010): BTM: RemBdAddr: 0015836bd158
+W/bt-btm  ( 9010): BTM: remote role: 0x01
+W/bt-btif ( 9010): info:x10
+W/bt-l2cap( 9010): L2CA_SetDesireRole() new:x0, disallow_switch:0
+D/        ( 9010): remote version info [00:15:83:6b:d1:58]: 6, a, 22bb
+D/btif_config_util( 9010): btif_config_save_file(L188): in file name:/data/misc/bluedroid/bt_config.new
+E/bt-btif ( 9010): check_cod: remote_cod = 0x0c010c
+E/bt-btif ( 9010): services_to_search = 3fffffff
+E/bt-btif ( 9010): ****************search UUID = 1200***********
+W/bt-l2cap( 9010): L2CA_ErtmConnectReq()  PSM: 0x0001  BDA: 0015836bd158  p_ertm_info: 0x00000000 allowed:0x0 preferred:0
+W/bt-l2cap( 9010): L2CAP - st: CLOSED evt: 21
+W/bt-l2cap( 9010): L2CAP - st: CLOSED evt: 7
+W/bt-l2cap( 9010): L2CAP - st: W4_L2CAP_CON_RSP evt: 12
+W/bt-l2cap( 9010): L2CAP - st: W4_L2CAP_CON_RSP evt: 19
+W/bt-l2cap( 9010): L2CAP - st: W4_L2CAP_CON_RSP evt: 13
+W/bt-sdp  ( 9010): SDP - Rcvd conn cnf with error: 0x4  CID 0x41
+W/bt-btif ( 9010): btif_dm_search_services_evt:SDP failed after bonding re-attempting
+E/bt-btif ( 9010): services_to_search = 3fffffff
+E/bt-btif ( 9010): ****************search UUID = 1200***********
+W/bt-l2cap( 9010): L2CA_ErtmConnectReq()  PSM: 0x0001  BDA: 0015836bd158  p_ertm_info: 0x00000000 allowed:0x0 preferred:0
+W/bt-l2cap( 9010): L2CAP - st: CLOSED evt: 21
+W/bt-l2cap( 9010): L2CAP - st: CLOSED evt: 7
+W/bt-l2cap( 9010): L2CAP - no CCB for conn rsp, LCID: 65 RCID: 65
+W/bt-l2cap( 9010): L2CAP - st: CLOSED evt: 10
+W/bt-l2cap( 9010): L2CAP - st: TERM_W4_SEC_COMP evt: 7
+W/bt-l2cap( 9010): L2CA_ErtmConnectRsp() CID: 0x0043 Result: 0  Status: 0 BDA: 0015836bd158 p_ertm_info:0x00000000
+W/bt-l2cap( 9010): L2CAP - st: W4_L2CA_CON_RSP evt: 22
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 24
+W/bt-l2cap( 9010): L2CAP - st: W4_L2CAP_CON_RSP evt: 11
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 24
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 14
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 25
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 14
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 25
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 15
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 15
+I/Gecko   ( 9742): --DOCSHELL 0xb130d400 == 1 [pid = 9742] [id = 1]
+I/Gecko   ( 9742): [Child 9742] WARNING: NS_ENSURE_TRUE(mDocShell) failed: file ../../../../gecko/embedding/browser/nsWebBrowser.cpp, line 365
+I/Gecko   ( 9742): [Child 9742] WARNING: NS_ENSURE_TRUE(domWindow) failed: file ../../../../gecko/embedding/browser/nsDocShellTreeOwner.cpp, line 86
+W/bt-sdp  ( 9010): process_service_search_attr_rsp
+W/bt-l2cap( 9010): L2CA_DisconnectReq()  CID: 0x0042
+I/Gecko   ( 9742): [Child 9742] WARNING: NS_ENSURE_TRUE(inBrowser) failed: file ../../../../gecko/embedding/browser/nsDocShellTreeOwner.cpp, line 82
+W/bt-l2cap( 9010): L2CAP - st: W4_L2CAP_DISC_RSP evt: 18
+E/bt-btif ( 9010): services_to_search = 3ffffffe
+E/bt-btif ( 9010): ****************search UUID = 0100***********
+W/bt-l2cap( 9010): L2CA_ErtmConnectReq()  PSM: 0x0001  BDA: 0015836bd158  p_ertm_info: 0x00000000 allowed:0x0 preferred:0
+W/bt-l2cap( 9010): L2CAP - st: CLOSED evt: 21
+W/bt-l2cap( 9010): L2CAP - st: CLOSED evt: 7
+W/bt-l2cap( 9010): L2CAP - st: W4_L2CAP_CON_RSP evt: 11
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 24
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 14
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 25
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 15
+W/bt-sdp  ( 9010): process_service_search_attr_rsp
+W/bt-l2cap( 9010): L2CA_DisconnectReq()  CID: 0x0044
+W/bt-l2cap( 9010): L2CAP - st: CLOSED evt: 10
+W/bt-l2cap( 9010): L2CAP - st: TERM_W4_SEC_COMP evt: 7
+W/bt-l2cap( 9010): L2CA_ErtmConnectRsp() CID: 0x0045 Result: 0  Status: 0 BDA: 0015836bd158 p_ertm_info:0x00000000
+W/bt-l2cap( 9010): L2CAP - st: W4_L2CA_CON_RSP evt: 22
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 24
+W/bt-l2cap( 9010): L2CAP - st: W4_L2CAP_DISC_RSP evt: 18
+E/bt-btif ( 9010): Index: 0 uuid:0000110a-0000-1000-8000-00805f9b34fb
+E/bt-btif ( 9010): Index: 1 uuid:0000110b-0000-1000-8000-00805f9b34fb
+E/bt-btif ( 9010): Index: 2 uuid:0000110e-0000-1000-8000-00805f9b34fb
+E/bt-btif ( 9010): Index: 3 uuid:00000000-0000-1000-8000-00805f9b34fb
+E/bt-btif ( 9010): check_cod: remote_cod = 0x0c010c
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 14
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 25
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 15
+E/bt-btif ( 9010): bta_av_rc_create ACP handle exist for shdl:0
+D/bt-btif ( 9010): AV Sevent(0x41)=0x122a(ACP_CONNECT) state=0(INIT)
+W/bt-btif ( 9010): bta_dm_rm_cback:0, status:0
+W/bt-l2cap( 9010): L2CA_SetDesireRole() new:x0, disallow_switch:0
+W/bt-btif ( 9010): new conn_srvc id:18, app_id:0
+W/bt-btif ( 9010): bta_dm_pm_ssr conn_srvc id:18, app_id:0
+W/bt-btif ( 9010): bta_dm_pm_ssr:2, lat:1200
+D/bt-btif ( 9010): btif_av_state_idle_handler event:BTA_AV_PENDING_EVT flags 0
+D/bt-btif ( 9010): btif_av_state_idle_handler event:BTIF_SM_EXIT_EVT flags 0
+D/bt-btif ( 9010): btif_av_state_opening_handler event:BTIF_SM_ENTER_EVT flags 0
+D/bt-btif ( 9010): AV Sevent(0x41)=0x121f(STR_CONFIG_IND) state=1(INCOMING)
+W/bt-btif ( 9010):  bta_av_config_ind config_ind called before Open
+D/bt-btif ( 9010): bta_av_co_audio_setconfig p_codec_info[0:0:11:15:2:33]
+D/bt-btif ( 9010): AV Sevent(0x41)=0x1212(CI_SETCONFIG_OK) state=1(INCOMING)
+E/bt-btif ( 9010): bta_av_setconfig_rsp recfg_needed:0 role:x1 num:1
+D/bt-btif ( 9010): AV Sevent(0x41)=0x1218(STR_GETCAP_OK) state=1(INCOMING)
+D/bt-btif ( 9010): bta_av_co_audio_getconfig reconfig p_codec_info[0:0:11:15:2:40]
+W/bt-l2cap( 9010): L2CAP - st: CLOSED evt: 10
+W/bt-l2cap( 9010): L2CAP - st: TERM_W4_SEC_COMP evt: 7
+W/bt-l2cap( 9010): L2CA_ErtmConnectRsp() CID: 0x0046 Result: 0  Status: 0 BDA: 0015836bd158 p_ertm_info:0x00000000
+W/bt-l2cap( 9010): L2CAP - st: W4_L2CA_CON_RSP evt: 22
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 24
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 14
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 25
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 15
+D/bt-btif ( 9010): AV Sevent(0x41)=0x121a(STR_OPEN_OK) state=1(INCOMING)
+W/bt-btif ( 9010): bta_dm_rm_cback:0, status:0
+W/bt-l2cap( 9010): L2CA_SetDesireRole() new:x0, disallow_switch:0
+W/bt-btif ( 9010): bta_dm_pm_ssr conn_srvc id:18, app_id:0
+W/bt-btif ( 9010): bta_dm_pm_ssr:2, lat:1200
+W/bt-l2cap( 9010): L2CAP - st: CLOSED evt: 10
+W/bt-l2cap( 9010): L2CAP - st: TERM_W4_SEC_COMP evt: 7
+W/bt-l2cap( 9010): L2CA_ErtmConnectRsp() CID: 0x0047 Result: 0  Status: 0 BDA: 0015836bd158 p_ertm_info:0x00000000
+W/bt-l2cap( 9010): L2CAP - st: W4_L2CA_CON_RSP evt: 22
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 24
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 14
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 25
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 15
+E/bt-btif ( 9010): use_rc:1
+E/bt-btif ( 9010): bta_av_rc_opened rcb[0] shdl:1 lidx:3/0
+W/bt-l2cap( 9010): L2CA_ErtmConnectReq()  PSM: 0x0001  BDA: 0015836bd158  p_ertm_info: 0x00000000 allowed:0x0 preferred:0
+W/bt-l2cap( 9010): L2CAP - st: CLOSED evt: 21
+W/bt-l2cap( 9010): L2CAP - st: CLOSED evt: 7
+W/bt-l2cap( 9010): L2CAP - st: CLOSED evt: 10
+W/bt-l2cap( 9010): L2CAP - st: TERM_W4_SEC_COMP evt: 7
+E/bt-avp  ( 9010): index value = 0
+W/bt-l2cap( 9010): L2CA_ErtmConnectRsp() CID: 0x0049 Result: 0  Status: 0 BDA: 0015836bd158 p_ertm_info:0xa8263ae8
+W/bt-l2cap( 9010): L2CAP - st: W4_L2CA_CON_RSP evt: 22
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 24
+E/bt-avp  ( 9010): opcode 0
+W/bt-l2cap( 9010): L2CAP - st: W4_L2CAP_CON_RSP evt: 11
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 24
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 14
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 25
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 14
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 25
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 15
+E/bt-avp  ( 9010): opcode 0
+W/bt-l2cap( 9010): L2CAP - st: CONFIG evt: 15
+W/bt-sdp  ( 9010): process_service_search_attr_rsp
+W/bt-l2cap( 9010): L2CA_DisconnectReq()  CID: 0x0048
+W/bt-l2cap( 9010): L2CAP - st: W4_L2CAP_DISC_RSP evt: 18
+I/ServiceManager(  193): service 'media.resource_manager' died
+I/ServiceManager(  193): service 'SurfaceFlinger' died
+I/ServiceManager(  193): service 'permission' died
+I/ServiceManager(  193): service 'android.security.keystore' died
+I/ServiceManager(  193): service 'display.qservice' died

@@ -1,0 +1,43 @@
+E/GeckoConsole( 1912): Content JS LOG at 
+app://ef7a9de8-e31c-41fc-b44e-84ddc6cecc1c/script.js:4 in test: hi2
+I/Gecko   ( 1443): [Parent 1443] WARNING: No observer registered for path 
+98:d6:f7:75:37:48: file 
+../../../../mozilla-central/dom/bluetooth/BluetoothService.cpp, line 382
+I/Gecko   ( 1443): [Parent 1443] WARNING: No observer registered for path 
+a4:db:30:21:98:a3: file 
+../../../../mozilla-central/dom/bluetooth/BluetoothService.cpp, line 382
+I/Gecko   ( 1912): [Child 1912] WARNING: Not handling device property: 
+UUIDS: file ../../../../mozilla-central/dom/bluetooth/BluetoothDevice.cpp, 
+line 167
+I/Gecko   ( 1912): [Child 1912] WARNING: Not handling device property: 
+UUIDS: file ../../../../mozilla-central/dom/bluetooth/BluetoothDevice.cpp, 
+line 167
+I/GeckoBluetooth( 1443): StartSession: connecting
+I/GeckoBluetooth( 1443): Next: [A2DP] 
+E/bt-btif ( 1443): reset flags
+E/BTIF_CORE( 1443): ### ASSERT : 
+external/bluetooth/bluedroid/main/../btif/src/btif_core.c line 1171 
+Callback is NULL (0) ###
+I/Gecko   ( 1443): [Parent 1443] ###!!! ASSERTION: invalid default font 
+returned by GetDefaultFont: 'defaultFamily', file 
+../../../../mozilla-central/gfx/thebes/gfxFont.cpp, line 5074
+E/GKI_LINUX( 1443): ##### ERROR : timer_thread: tick delayed > 5 slots 
+(-89244115,-50000000) -- cpu overload ? #####
+E/GKI_LINUX( 1443): ##### ERROR : timer_thread: tick delayed > 5 slots 
+(-80808230,-50000000) -- cpu overload ? #####
+E/GKI_LINUX( 1443): ##### ERROR : timer_thread: tick delayed > 5 slots 
+(-115571094,-50000000) -- cpu overload ? #####
+E/GKI_LINUX( 1443): ##### ERROR : timer_thread: tick delayed > 5 slots 
+(-106664271,-50000000) -- cpu overload ? #####
+E/GKI_LINUX( 1443): ##### ERROR : timer_thread: tick delayed > 5 slots 
+(-99485782,-50000000) -- cpu overload ? #####
+E/GKI_LINUX( 1443): ##### ERROR : timer_thread: tick delayed > 5 slots 
+(-90590625,-50000000) -- cpu overload ? #####
+E/GKI_LINUX( 1443): ##### ERROR : timer_thread: tick delayed > 5 slots 
+(-81664793,-50000000) -- cpu overload ? #####
+E/GKI_LINUX( 1443): ##### ERROR : timer_thread: tick delayed > 5 slots 
+(-72732657,-50000000) -- cpu overload ? #####
+E/GKI_LINUX( 1443): ##### ERROR : timer_thread: tick delayed > 5 slots 
+(-63830522,-50000000) -- cpu overload ? #####
+E/GKI_LINUX( 1443): ##### ERROR : timer_thread: tick delayed > 5 slots 
+(-54943907,-50000000) -- cpu overload ? #####

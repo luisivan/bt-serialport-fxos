@@ -1,0 +1,16 @@
+I/Gecko   ( 2647): ###!!! [Child][MessageChannel] Error: Channel error: cannot send/recv
+I/Gecko   ( 2647): 
+I/Gecko   ( 2647): 
+I/Gecko   ( 2647): ###!!! [Child][MessageChannel] Error: Channel error: cannot send/recv
+I/Gecko   ( 2647): 
+I/Gecko   ( 2647): [Child 2647] ###!!! ABORT: actor has been |delete|d: file PRenderFrameChild.cpp, line 365
+E/Gecko   ( 2647): mozalloc_abort: [Child 2647] ###!!! ABORT: actor has been |delete|d: file PRenderFrameChild.cpp, line 365
+F/MOZ_CRASH( 2647): Hit MOZ_CRASH() at ../../../../gecko/memory/mozalloc/mozalloc_abort.cpp:37
+F/libc    ( 2647): Fatal signal 11 (SIGSEGV) at 0x00000000 (code=1), thread 2647 (Homescreen)
+F/libc    ( 2647): Unable to open connection to debuggerd: Permission denied
+F/libc    ( 2631): Fatal signal 11 (SIGSEGV) at 0x00000000 (code=1), thread 2631 (Built-in Keyboa)
+F/libc    ( 2631): Unable to open connection to debuggerd: Permission denied
+I/ServiceManager(  193): service 'media.audio_flinger' died
+I/ServiceManager(  193): service 'media.player' died
+I/ServiceManager(  193): service 'media.camera' died
+I/ServiceManager(  193): service 'media.audio_policy' died

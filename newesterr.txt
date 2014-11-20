@@ -1,0 +1,206 @@
+ontext.  Cannot query loadgroup, which means report sending may fail.: file ../../../../../gecko/content/base/src/nsCSPContext.cpp, line 529
+I/Gecko   ( 5205): [Parent 5205] WARNING: Channel provided to SetRequestContext is not an nsIHttpChannel so referrer is not available for reporting.: file ../../../../../gecko/content/base/src/nsCSPContext.cpp, line 539
+I/Gecko   ( 5913): [Child 5913] WARNING: NS_ENSURE_TRUE(mDocShell) failed: file ../../../../gecko/embedding/browser/nsWebBrowser.cpp, line 365
+I/Gecko   ( 5913): [Child 5913] WARNING: NS_ENSURE_TRUE(domWindow) failed: file ../../../../gecko/embedding/browser/nsDocShellTreeOwner.cpp, line 86
+I/Gecko   ( 5205): [Parent 5205] WARNING: Channel needed (but null) in SetRequestContext.  Cannot query loadgroup, which means report sending may fail.: file ../../../../../gecko/content/base/src/nsCSPContext.cpp, line 529
+I/Gecko   ( 5205): [Parent 5205] WARNING: Channel provided to SetRequestContext is not an nsIHttpChannel so referrer is not available for reporting.: file ../../../../../gecko/content/base/src/nsCSPContext.cpp, line 539
+I/Gecko   ( 5205): [Parent 5205] WARNING: Channel needed (but null) in SetRequestContext.  Cannot query loadgroup, which means report sending may fail.: file ../../../../../gecko/content/base/src/nsCSPContext.cpp, line 529
+I/Gecko   ( 5205): [Parent 5205] WARNING: Channel provided to SetRequestContext is not an nsIHttpChannel so referrer is not available for reporting.: file ../../../../../gecko/content/base/src/nsCSPContext.cpp, line 539
+I/Gecko   ( 5205): [Parent 5205] WARNING: RemoveObserver() called for unregistered observer: file ../../../gecko/hal/Hal.cpp, line 205
+I/Gecko   ( 5205): [Parent 5205] WARNING: RemoveObserver() called for unregistered observer: file ../../../gecko/hal/Hal.cpp, line 205
+I/Gecko   ( 5205): [Parent 5205] WARNING: RemoveObserver() called for unregistered observer: file ../../../gecko/hal/Hal.cpp, line 205
+I/Gecko   ( 5205): [Parent 5205] WARNING: RemoveObserver() called for unregistered observer: file ../../../gecko/hal/Hal.cpp, line 205
+I/Gecko   ( 5913): 
+I/Gecko   ( 5913): ###!!! [Child][MessageChannel] Error: Closed channel: cannot send/recv
+I/Gecko   ( 5913): 
+I/Gecko   ( 5913): [Child 5913] WARNING: content process _exit()ing: file ../../../../gecko/dom/ipc/ContentChild.cpp, line 1648
+I/Gecko   ( 5205): [Parent 5205] WARNING: NS_ENSURE_TRUE(mCallback) failed: file ../../../../../gecko/content/base/src/nsFrameMessageManager.cpp, line 670
+W/GeckoConsole( 5205): [JavaScript Error: "NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]" {file: "resource://gre/modules/AlarmService.jsm" line: 190}]
+I/Gecko   ( 5795): [Child 5795] WARNING: Transparent content with displayports can be expensive.: file ../../../../gecko/layout/base/nsDisplayList.cpp, line 1357
+E/bt-btif ( 5205): bta_jv_rfcomm_stop_server
+W/bt-btif ( 5205): bta_dm_disable BTA_DISABLE_DELAY set to 200 ms
+D/bt-btif ( 5205): AV Sevent(0x41)=0x120a(API_CLOSE) state=0(INIT)
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x0019
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x0017
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x001b
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x0019
+W/bt-l2cap( 5205): L2CAP - PSM: 0x0019 not found for deregistration
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x0017
+W/bt-l2cap( 5205): L2CAP - PSM: 0x0017 not found for deregistration
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x001b
+W/bt-l2cap( 5205): L2CAP - PSM: 0x001b not found for deregistration
+W/GeckoConsole( 5205): Content JS WARN: mozL10n: A non-existing entity requested: bluetoothButton-off-initializing 
+W/GeckoConsole( 5205):     at getWithFallback (app://system.gaiamobile.org/shared/js/l10n.js:1277:4)
+I/bt_vendor( 5205): hw_epilog_process
+W/bt-btif ( 5205): ag scb idx 1 not allocated
+E/bt-btif ( 5205): BTA AG is already disabled, ignoring ...
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x0019
+W/bt-l2cap( 5205): L2CAP - PSM: 0x0019 not found for deregistration
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x0017
+W/bt-l2cap( 5205): L2CAP - PSM: 0x0017 not found for deregistration
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x001b
+W/bt-l2cap( 5205): L2CAP - PSM: 0x001b not found for deregistration
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x0019
+W/bt-l2cap( 5205): L2CAP - PSM: 0x0019 not found for deregistration
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x0017
+W/bt-l2cap( 5205): L2CAP - PSM: 0x0017 not found for deregistration
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x001b
+W/bt-l2cap( 5205): L2CAP - PSM: 0x001b not found for deregistration
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x0019
+W/bt-l2cap( 5205): L2CAP - PSM: 0x0019 not found for deregistration
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x0017
+W/bt-l2cap( 5205): L2CAP - PSM: 0x0017 not found for deregistration
+W/bt-l2cap( 5205): L2CAP - L2CA_Deregister() called for PSM: 0x001b
+W/bt-l2cap( 5205): L2CAP - PSM: 0x001b not found for deregistration
+I/Gecko   ( 5795): [Child 5795] WARNING: Transparent content with displayports can be expensive.: file ../../../../gecko/layout/base/nsDisplayList.cpp, line 1357
+I/bt_vendor( 5205): hw_epilog_cback Opcode:0x0C03 Status: 0
+I/bt_hci_bdroid( 5205): bt_hc_worker_thread exiting
+D/bt_userial_mct( 5205): userial_close
+I/bt_userial_mct( 5205): exiting userial_read_thread
+D/bt_userial_mct( 5205): Leaving userial_evt_read_thread()
+I/bt_vendor( 5205): bt-vendor : BT_VND_OP_USERIAL_CLOSE btSocType: 0
+D/BTSNOOP-DISP( 5205): btsnoop_close
+I/bt_vendor( 5205): cleanup
+I/bt_vendor( 5205): bt-vendor : BT_VND_OP_POWER_CTRL: Off
+I/bt_vendor( 5205): Starting hciattach daemon
+I/bt_vendor( 5205): try to set false
+I/GKI_LINUX( 5205): gki_task_entry: gki_task task_id=0 [BTU] terminating
+I/GKI_LINUX( 5205): GKI_exit_task: GKI_exit_task 0 done
+I/GKI_LINUX( 5205): GKI_destroy_task: GKI_shutdown(): task [BTU] terminated
+I/GeckoBluetooth( 5205): AdapterStateChangedNotification: BT_STATE: 0
+E/bt-btif ( 5205): ================= MEDIA TASK EVENT 32768 ===============
+E/bt-btif ( 5205): =============== MEDIA TASK EVENT 32768 DONE ============
+I/GKI_LINUX( 5205): gki_task_entry: gki_task task_id=2 [A2DP-MEDIA] terminating
+I/GKI_LINUX( 5205): GKI_exit_task: GKI_exit_task 2 done
+I/GKI_LINUX( 5205): GKI_destroy_task: GKI_shutdown(): task [A2DP-MEDIA] terminated
+I/GKI_LINUX( 5205): gki_task_entry: gki_task task_id=1 [BTIF] terminating
+I/GKI_LINUX( 5205): GKI_exit_task: GKI_exit_task 1 done
+I/GKI_LINUX( 5205): GKI_destroy_task: GKI_shutdown(): task [BTIF] terminated
+I/bluedroid( 5205): init
+I/bte_conf( 5205): Attempt to load stack conf from /etc/bluetooth/bt_stack.conf
+I/Gecko   ( 5795): [Child 5795] WARNING: Transparent content with displayports can be expensive.: file ../../../../gecko/layout/base/nsDisplayList.cpp, line 1357
+I/GKI_LINUX( 5205): gki_task_entry: gki_task_entry task_id=1 [BTIF] starting
+I/Gecko   ( 5795): [Child 5795] WARNING: Transparent content with displayports can be expensive.: file ../../../../gecko/layout/base/nsDisplayList.cpp, line 1357
+I/GKI_LINUX( 5205): gki_task_entry: gki_task_entry task_id=2 [A2DP-MEDIA] starting
+E/bt-btif ( 5205): ================ MEDIA TASK STARTING ================
+D/bt-btif ( 5205): btif_av_state_idle_handler event:BTIF_SM_ENTER_EVT flags 0
+E/bt-btif ( 5205): ================= MEDIA TASK EVENT 1 ===============
+E/bt-btif ( 5205): btif_media_task_handle_cmd : 2 BTIF_MEDIA_STOP_AA_TX
+E/bt-btif ( 5205): warning : no command pending, ignore ack
+E/bt-btif ( 5205): btif_media_task_handle_cmd : BTIF_MEDIA_STOP_AA_TX DONE
+E/bt-btif ( 5205): =============== MEDIA TASK EVENT 1 DONE ============
+I/bluedroid( 5205): enable
+I/bt_hci_bdroid( 5205): init
+I/bt_vendor( 5205): bt-vendor : init
+I/bt_vendor( 5205): bt-vendor : get_bt_soc_type
+E/bt_vendor( 5205): get_bt_soc_type: Failed to get soc type
+I/bt_vendor( 5205): init: Local BD Address : 16:ba:1a:6d:e5:d8
+I/bt_hci_bdroid( 5205): ro.qualcomm.hci_transport set to smd
+D/bt_userial_mct( 5205): userial_init
+I/bt_vendor( 5205): bt-vendor : BT_VND_OP_POWER_CTRL: Off
+I/bt_vendor( 5205): Starting hciattach daemon
+I/bt_vendor( 5205): try to set false
+I/bt_vendor( 5205): bt-vendor : BT_VND_OP_POWER_CTRL: On
+I/bt_vendor( 5205): Starting hciattach daemon
+I/bt_vendor( 5205): try to set true
+I/bt_hci_bdroid( 5205): bt_hc_worker_thread started
+I/qcom-bluetooth( 5946): /system/etc/init.qcom.bt.sh: init.qcom.bt.sh config =  
+I/qcom-bluetooth( 5952): /system/etc/init.qcom.bt.sh: Transport : smd 
+I/qcom-bluetooth( 5953): /system/etc/init.qcom.bt.sh: ** Bluedroid stack ** 
+I/qcom-bluetooth( 5955): /system/etc/init.qcom.bt.sh: Power Class: Ignored. Default(1) used (1-CLASS1/2-CLASS2/3-CUSTOM) 
+I/qcom-bluetooth( 5956): /system/etc/init.qcom.bt.sh: Power Class: To override, Before turning BT ON; setprop qcom.bt.dev_power_class <1 or 2 or 3> 
+I/qcom-bluetooth( 5957): /system/etc/init.qcom.bt.sh: LE Power Class: Ignored. Default(2) used (1-CLASS1/2-CLASS2/3-CUSTOM) 
+I/qcom-bluetooth( 5958): /system/etc/init.qcom.bt.sh: LE Power Class: To override, Before turning BT ON; setprop qcom.bt.le_dev_pwr_class <1 or 2 or 3> 
+I/Gecko   ( 5795): [Child 5795] WARNING: Transparent content with displayports can be expensive.: file ../../../../gecko/layout/base/nsDisplayList.cpp, line 1357
+I/qcom-bluetooth( 5961): /system/etc/init.qcom.bt.sh: Bluetooth QSoC firmware download succeeded, /dev/ttyHS0 qualcomm 3000000 d8:e5:6d:1a:ba:16 
+I/qcom-bluetooth( 5962): /system/etc/init.qcom.bt.sh: ** Bluedroid stack ** 
+I/bt_vendor( 5205): bluetooth satus is on
+D/bt_userial_mct( 5205): userial_open(port:0)
+I/bt_vendor( 5205): bt-vendor : BT_VND_OP_USERIAL_OPEN
+I/bt_vendor( 5205): Done intiailizing UART
+I/GKI_LINUX( 5205): gki_task_entry: gki_task_entry task_id=0 [BTU] starting
+I/bt-btu  ( 5205): btu_task pending for preload complete event
+I/bt_vendor( 5205): Done intiailizing UART
+I/bt_userial_mct( 5205): CMD=124, EVT=124, ACL_Out=141, ACL_In=141
+I/bt_vendor( 5205): Bluetooth Firmware and transport layer are initialized
+D/bt_userial_mct( 5205): Entering userial_read_thread()
+I/bt-btu  ( 5205): btu_task received preload complete event
+W/bt-l2cap( 5205): L2CAP - L2CA_Register() called for PSM: 0x0001
+W/bt-l2cap( 5205): L2CAP - L2CA_Register() called for PSM: 0x0003
+I/        ( 5205): BTE_InitTraceLevels -- TRC_HCI
+I/        ( 5205): BTE_InitTraceLevels -- TRC_L2CAP
+I/        ( 5205): BTE_InitTraceLevels -- TRC_RFCOMM
+I/        ( 5205): BTE_InitTraceLevels -- TRC_AVDT
+I/        ( 5205): BTE_InitTraceLevels -- TRC_AVRC
+I/        ( 5205): BTE_InitTraceLevels -- TRC_A2D
+I/        ( 5205): BTE_InitTraceLevels -- TRC_BNEP
+I/        ( 5205): BTE_InitTraceLevels -- TRC_BTM
+I/        ( 5205): BTE_InitTraceLevels -- TRC_GAP
+I/        ( 5205): BTE_InitTraceLevels -- TRC_PAN
+I/        ( 5205): BTE_InitTraceLevels -- TRC_SDP
+I/        ( 5205): BTE_InitTraceLevels -- TRC_BTAPP
+I/        ( 5205): BTE_InitTraceLevels -- TRC_BTIF
+I/        ( 5205): BTE_InitTraceLevels -- TRC_LATENCY_AUDIO
+E/bt-btif ( 5205): btif_storage_get_adapter_property service_mask:0x40040
+W/bt-l2cap( 5205): L2CAP - L2CA_Register() called for PSM: 0x0019
+W/bt-l2cap( 5205): L2CAP - L2CA_Register() called for PSM: 0x0017
+W/bt-l2cap( 5205): L2CAP - L2CA_Register() called for PSM: 0x001b
+I/Gecko   ( 5205): [Parent 5205] WARNING: BluetoothNotificationHALRunnable4::Create failed: file ../../../../gecko/dom/bluetooth/bluedroid/BluetoothHALHelpers.h, line 1271
+I/Gecko   ( 5205): [Parent 5205] WARNING: BluetoothNotificationHALRunnable4::Create failed: file ../../../../gecko/dom/bluetooth/bluedroid/BluetoothHALHelpers.h, line 1271
+I/Gecko   ( 5205): [Parent 5205] WARNING: BluetoothNotificationHALRunnable4::Create failed: file ../../../../gecko/dom/bluetooth/bluedroid/BluetoothHALHelpers.h, line 1271
+I/bte_conf( 5205): Attempt to load did conf from /etc/bluetooth/bt_did.conf
+I/bte_conf( 5205): [1] primary_record=1 vendor_id=0x001D vendor_id_source=0x0001 product_id=0x1200 version=0x1436
+I/bte_conf( 5205): Attempt to load did conf from /etc/bluetooth/bt_did.conf
+I/bte_conf( 5205): Attempt to load did conf from /etc/bluetooth/bt_did.conf
+D/bt-btif ( 5205): btif_av_state_idle_handler event:BTA_AV_ENABLE_EVT flags 0
+D/bt-btif ( 5205): btif_av_state_idle_handler event:BTA_AV_REGISTER_EVT flags 0
+E/bt_mct  ( 5205): hci lib postload completed
+I/Gecko   ( 5205): [Parent 5205] WARNING: No observer registered for path /B2G/bluetooth/adapter: file ../../../../gecko/dom/bluetooth/BluetoothService.cpp, line 385
+I/GeckoBluetooth( 5205): AdapterStateChangedNotification: BT_STATE: 1
+I/GeckoBluetooth( 5205): OnError: BluetoothSocketInterface::Accept failed: 5
+I/Gecko   ( 5795): [Child 5795] WARNING: Transparent content with displayports can be expensive.: file ../../../../gecko/layout/base/nsDisplayList.cpp, line 1357
+I/qcom-bt-wlan-coex( 5976): /system/etc/init.qcom.coex.sh: btwlancoex/abtfilt not available 
+I/Gecko   ( 5205): [Parent 5205] WARNING: BluetoothNotificationHALRunnable4::Create failed: file ../../../../gecko/dom/bluetooth/bluedroid/BluetoothHALHelpers.h, line 1271
+I/Gecko   ( 5205): [Parent 5205] WARNING: BluetoothNotificationHALRunnable4::Create failed: file ../../../../gecko/dom/bluetooth/bluedroid/BluetoothHALHelpers.h, line 1271
+I/Gecko   ( 5205): [Parent 5205] WARNING: BluetoothNotificationHALRunnable4::Create failed: file ../../../../gecko/dom/bluetooth/bluedroid/BluetoothHALHelpers.h, line 1271
+W/bt-btif ( 5205): bta_dm_check_av:0
+W/bt-btm  ( 5205): btm_acl_created hci_handle=1 link_role=1  is_le_link=0
+W/bt-btm  ( 5205): BTM: RemBdAddr: a4db302198a3
+W/bt-btm  ( 5205): BTM: remote role: 0x01
+W/bt-btm  ( 5205): btm_acl_created hci_handle=1 link_role=0  is_le_link=0
+W/bt-btm  ( 5205): BTM: RemBdAddr: a4db302198a3
+W/bt-btm  ( 5205): BTM: remote role: 0x00
+W/bt-btif ( 5205): info:x10
+D/        ( 5205): remote version info [a4:db:30:21:98:a3]: 6, f, 220e
+W/bt-l2cap( 5205): L2CA_SetDesireRole() new:x0, disallow_switch:0
+W/bt-l2cap( 5205): L2CAP - st: CLOSED evt: 10
+W/bt-l2cap( 5205): L2CAP - st: TERM_W4_SEC_COMP evt: 7
+W/bt-l2cap( 5205): L2CA_ErtmConnectRsp() CID: 0x0040 Result: 0  Status: 0 BDA: a4db302198a3 p_ertm_info:0x00000000
+W/bt-l2cap( 5205): L2CAP - st: W4_L2CA_CON_RSP evt: 22
+W/bt-l2cap( 5205): L2CAP - st: CONFIG evt: 24
+W/bt-l2cap( 5205): L2CAP - st: CONFIG evt: 14
+W/bt-l2cap( 5205): L2CAP - st: CONFIG evt: 25
+W/bt-l2cap( 5205): L2CAP - st: CONFIG evt: 15
+E/bt-btif ( 5205): bta_av_rc_create ACP handle exist for shdl:0
+D/bt-btif ( 5205): AV Sevent(0x41)=0x122a(ACP_CONNECT) state=0(INIT)
+D/bt-btif ( 5205): btif_av_state_idle_handler event:BTA_AV_PENDING_EVT flags 0
+D/bt-btif ( 5205): btif_av_state_idle_handler event:BTIF_SM_EXIT_EVT flags 0
+D/bt-btif ( 5205): btif_av_state_opening_handler event:BTIF_SM_ENTER_EVT flags 0
+W/bt-btif ( 5205): bta_dm_rm_cback:0, status:0
+W/bt-l2cap( 5205): L2CA_SetDesireRole() new:x0, disallow_switch:0
+W/bt-btif ( 5205): new conn_srvc id:18, app_id:0
+W/bt-btif ( 5205): bta_dm_pm_ssr conn_srvc id:18, app_id:0
+W/bt-btif ( 5205): bta_dm_pm_ssr:2, lat:1200
+D/bt-btif ( 5205): AV Sevent(0x41)=0x121f(STR_CONFIG_IND) state=1(INCOMING)
+W/bt-btif ( 5205):  bta_av_config_ind config_ind called before Open
+D/bt-btif ( 5205): bta_av_co_audio_setconfig p_codec_info[0:0:11:15:2:33]
+D/bt-btif ( 5205): AV Sevent(0x41)=0x1212(CI_SETCONFIG_OK) state=1(INCOMING)
+E/bt-btif ( 5205): bta_av_setconfig_rsp recfg_needed:0 role:x1 num:1
+E/GKI_LINUX( 5205): ##### ERROR : timer_thread: tick delayed > 5 slots (-671595839,-50000000) -- cpu overload ? #####
+D/bt-btif ( 5205): AV Sevent(0x41)=0x1218(STR_GETCAP_OK) state=1(INCOMING)
+D/bt-btif ( 5205): bta_av_co_audio_getconfig reconfig p_codec_info[0:0:11:15:2:40]
+I/ServiceManager(  191): service 'android.security.keystore' died
+I/ServiceManager(  191): service 'media.resource_manager' died
+I/ServiceManager(  191): service 'SurfaceFlinger' died
+I/ServiceManager(  191): service 'permission' died
+I/ServiceManager(  191): service 'display.qservice' died
