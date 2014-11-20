@@ -11,7 +11,6 @@ navigator.mozBluetooth.getDefaultAdapter().onsuccess = function(e) {
 		    document.body.appendChild(button)
 		}
 	}
-
 	adapter.onserialportdata = function(e) {
 		console.log(e)
 		alert('onSerialPortData fired!')

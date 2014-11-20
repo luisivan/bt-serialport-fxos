@@ -13,7 +13,7 @@ serial.list(function (err, ports) {
 })
 
 var serialPort = new 
-serial.SerialPort("/dev/rfcomm1", {
+serial.SerialPort("/dev/rfcomm0", {
     baudrate: 57600
 })
 

@@ -20,6 +20,5 @@ Files I modified
 - M dom/bluetooth/ipc/PBluetooth.ipdl
 - M dom/bluetooth/moz.build
 - M dom/webidl/BluetoothAdapter.webidl
-- M layout/build/moz.build
 - ? dom/bluetooth/bluedroid/BluetoothSppManager.cpp
 - ? dom/bluetooth/bluedroid/BluetoothSppManager.h

@@ -1,9 +1,110 @@
-E/GeckoConsole( 1988): Content JS LOG at 
-app://ef7a9de8-e31c-41fc-b44e-84ddc6cecc1c/script.js:4 in test: hi2
-I/GeckoBluetooth( 1988): SendSerialPort: WACA WACA MOLE MOLE
-I/Gecko   ( 1464): [Parent 1464] WARNING: [SPP] SENDING DATA: file 
-../../../../mozilla-central/dom/bluetooth/bluedroid/BluetoothSppManager.cpp, 
-line 178
-I/Gecko   ( 1464): [Parent 1464] ###!!! ASSERTION: You can't dereference a 
-NULL nsRefPtr with operator->().: 'mRawPtr != 0', file 
-../../dist/include/nsAutoPtr.h, line 1037
+I/GeckoBluetooth(  202): StartSession: connecting
+I/GeckoBluetooth(  202): Next: [SPP] 
+I/GeckoBluetooth(  202): ConnectInternal: Connecting to device
+D/BTIF_SOCK(  202): service_uuid: 00001105-0000-1000-8000-00805f9b34fb
+W/bt-l2cap(  202): L2CA_ErtmConnectReq()  PSM: 0x0001  BDA: 0015836bd158  p_ertm_info: 0x00000000 allowed:0x0 preferred:0
+I/GeckoBluetooth(  202): SendData: [SPP] SENDING DATA
+F/MOZ_Assert(  202): Assertion failure: IsOpen(), at ../../../../mozilla-central/ipc/unixfd/UnixFdWatcher.cpp:49
+
+
+I/GeckoBluetooth(  202): SendData: [SPP] SENDING DATA
+I/Gecko   (  202): [Parent 202] WARNING: mSocket does not exist. Gonna listen now.: file ../../../../mozilla-central/dom/bluetooth/bluedroid/BluetoothSppManager.cpp, line 195
+I/GeckoBluetooth(  202): OnSocketDisconnect: WAKALAYAKAkakakakkakakaka
+I/GeckoBluetooth(  202): ConnectInternal: Connecting to device
+D/BTIF_SOCK(  202): service_uuid: 00001105-0000-1000-8000-00805f9b34fb
+W/bt-l2cap(  202): L2CA_ErtmConnectReq()  PSM: 0x0001  BDA: 0015836bd158  p_ertm_info: 0x00000000 allowed:0x0 preferred:0
+W/bt-l2cap(  202): L2CAP - st: CLOSED evt: 21
+W/bt-l2cap(  202): L2CAP - st: CLOSED evt: 7
+W/bt-l2cap(  202): L2CAP - st: W4_L2CAP_CON_RSP evt: 11
+W/bt-l2cap(  202): L2CAP - st: CONFIG evt: 24
+W/bt-l2cap(  202): L2CAP - st: CONFIG evt: 14
+W/bt-l2cap(  202): L2CAP - st: CONFIG evt: 25
+W/bt-l2cap(  202): L2CAP - st: CONFIG evt: 15
+E/GeckoConsole( 2194): Content JS LOG at app://ef7a9de8-e31c-41fc-b44e-84ddc6cecc1c/script.js:22 in send: Sending to dell powah
+W/bt-sdp  (  202): process_service_search_attr_rsp
+W/bt-l2cap(  202): L2CA_DisconnectReq()  CID: 0x0041
+W/bt-l2cap(  202): L2CAP - st: W4_L2CAP_DISC_RSP evt: 18
+E/bt-btif (  202): DISCOVERY_COMP_EVT slot id:12, failed to find channle,                                       status:1, scn:0
+W/bt-btif (  202): invalid rfc slot id: 12
+
+21 -> Upper layer connect request
+7 -> Security cleared successfully
+11 -> Peer connection response
+24 -> Upper layer config request 
+14 -> Peer configuration request
+25 -> Upper layer config response
+15 -> Peer configuration response
+
+process_service_search_attr_rsp -> This function is called when there is a search attribute response from the server.
+L2CA_DisconnectReq -> Higher layers call this function to disconnect a channel.
+
+18 -> Peer disconnect response
+
+DISCOVERY_COMP_EVT -> SDP Search, failed to find that channel
+invalid rfc slot id: 12 -> ?
+
+----
+
+I/GeckoBluetooth( 6402): ConnectInternal: Connecting to device
+D/BTIF_SOCK( 6402): service_uuid: 00001105-0000-1000-8000-00805f9b34fb
+W/bt-l2cap( 6402): L2CA_ErtmConnectReq()  PSM: 0x0001  BDA: 0015836bd158  p_ertm_info: 0x00000000 allowed:0x0 preferred:0
+E/GeckoConsole( 6841): Content JS LOG at app://ef7a9de8-e31c-41fc-b44e-84ddc6cecc1c/script.js:22 in send: Sending to dell powah
+W/bt-btm  ( 6402): btm_acl_created hci_handle=4 link_role=1  is_le_link=0
+W/bt-btm  ( 6402): BTM: RemBdAddr: 0015836bd158
+W/bt-btm  ( 6402): BTM: remote role: 0x01
+W/bt-btm  ( 6402): btm_acl_created hci_handle=4 link_role=1  is_le_link=0
+W/bt-btm  ( 6402): BTM: RemBdAddr: 0015836bd158
+W/bt-btm  ( 6402): BTM: remote role: 0x01
+W/bt-l2cap( 6402): L2CAP - st: CLOSED evt: 0
+W/bt-l2cap( 6402): L2CAP - st: ORIG_W4_SEC_COMP evt: 7
+W/bt-btif ( 6402): info:x10
+W/bt-l2cap( 6402): L2CA_SetDesireRole() new:x0, disallow_switch:0
+D/        ( 6402): remote version info [00:15:83:6b:d1:58]: 6, a, 22bb
+W/bt-l2cap( 6402): L2CAP - st: W4_L2CAP_CON_RSP evt: 19
+W/bt-l2cap( 6402): L2CAP - st: W4_L2CAP_CON_RSP evt: 12
+I/Gecko   ( 6402): [Parent 6402] ###!!! ASSERTION: Child frames aren't sorted correctly: 'nsIFrame::IsFrameListSorted<IsOrderLEQWithDOMFallback>(mFrames)', file ../../../../mozilla-central/layout/generic/nsFlexContainerFrame.cpp, line 1846
+W/bt-l2cap( 6402): L2CAP - st: W4_L2CAP_CON_RSP evt: 11
+W/bt-l2cap( 6402): L2CAP - st: CONFIG evt: 24
+W/bt-l2cap( 6402): L2CAP - st: CONFIG evt: 14
+W/bt-l2cap( 6402): L2CAP - st: CONFIG evt: 25
+W/bt-l2cap( 6402): L2CAP - st: CONFIG evt: 15
+W/bt-sdp  ( 6402): process_service_search_attr_rsp
+W/bt-l2cap( 6402): L2CA_DisconnectReq()  CID: 0x0041
+W/bt-l2cap( 6402): L2CAP - st: W4_L2CAP_DISC_RSP evt: 18
+E/bt-btif ( 6402): DISCOVERY_COMP_EVT slot id:4, failed to find channle,                                       status:1, scn:0
+W/bt-btif ( 6402): invalid rfc slot id: 4
+
+0 -> Lower layer connect confirm
+7 -> Security cleared successfully
+19 -> 
+12 -> Peer connection response pending
+11 -> Peer connection response
+24 -> Upper layer config request
+14 -> Peer configuration request
+25 -> Upper layer config response
+15 -> Peer configuration response
+
+process_service_search_attr_rsp -> This function is called when there is a search attribute response from the server.
+L2CA_DisconnectReq -> Higher layers call this function to disconnect a channel.
+
+18 -> Peer disconnect response
+
+
+---
+
+I/GeckoBluetooth( 6402): ConnectInternal: Connecting to device
+D/BTIF_SOCK( 6402): service_uuid: 00001105-0000-1000-8000-00805f9b34fb
+W/bt-l2cap( 6402): L2CA_ErtmConnectReq()  PSM: 0x0001  BDA: 0015836bd158  p_ertm_info: 0x00000000 allowed:0x0 preferred:0
+W/bt-l2cap( 6402): L2CAP - st: CLOSED evt: 21
+W/bt-l2cap( 6402): L2CAP - st: CLOSED evt: 7
+E/GeckoConsole( 7766): Content JS LOG at app://ef7a9de8-e31c-41fc-b44e-84ddc6cecc1c/script.js:22 in send: Sending to dell powah
+W/bt-l2cap( 6402): L2CAP - st: W4_L2CAP_CON_RSP evt: 11
+W/bt-l2cap( 6402): L2CAP - st: CONFIG evt: 24
+W/bt-l2cap( 6402): L2CAP - st: CONFIG evt: 14
+W/bt-l2cap( 6402): L2CAP - st: CONFIG evt: 25
+W/bt-l2cap( 6402): L2CAP - st: CONFIG evt: 15
+W/bt-sdp  ( 6402): process_service_search_attr_rsp
+W/bt-l2cap( 6402): L2CA_DisconnectReq()  CID: 0x0046
+W/bt-l2cap( 6402): L2CAP - st: W4_L2CAP_DISC_RSP evt: 18
+E/bt-btif ( 6402): DISCOVERY_COMP_EVT slot id:7, failed to find channle,                                       status:1, scn:0
+W/bt-btif ( 6402): invalid rfc slot id: 7
