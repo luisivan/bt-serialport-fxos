@@ -1,4 +1,4 @@
-var serial = require("serialport")
+var serial = require('serialport')
 
 serial.list(function (err, ports) {
 
@@ -13,17 +13,17 @@ serial.list(function (err, ports) {
 })
 
 var serialPort = new 
-serial.SerialPort("/dev/rfcomm0", {
+serial.SerialPort('/dev/rfcomm0', {
     baudrate: 57600
 })
 
-serialPort.on("open", function () {
+serialPort.on('open', function () {
 
     console.log('Serial Port opened')
     serialPort.on('data', function(data) {
         console.log('Data received: ' + data)
     })
-    serialPort.write("Plz receive this data\n", 
+    serialPort.write('Plz receive this data\n', 
 function(err, results) {
         console.log('Err is ' + err)
         console.log('Results are ' + results)
